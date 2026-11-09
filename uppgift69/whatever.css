@@ -1,0 +1,58 @@
+#filippa{
+    float: left;
+text-align: left;
+margin-left: auto;
+padding: 50px;
+background-color: crimson;
+border-color: rgb(255, 230, 0);
+border-width: 10px;
+border-style: groove;
+
+}
+#palm{
+background-color: aquamarine;
+padding: 5px;
+background-color: deeppink;
+border-width: 10px;
+border-color: indianred;
+border-style: dotted;
+float: inline-start;
+margin-right: 10px;
+}
+
+h1{
+color: rgb(54, 221, 255);
+font-family: fantasy;
+font-size: large;
+font-style: oblique;
+}
+
+body{
+background-color: blanchedalmond;
+background-image: url("che.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+#panini{
+background-color: aquamarine;
+padding: 5px;
+background-color: deeppink;
+border-width: 10px;
+border-color: indianred;
+border-style: dotted;
+float: inline-start;
+margin-top: 20px;
+margin-right: 300px;
+}
+#jonna{
+background-color: aquamarine;
+padding: 5px;
+background-color: deeppink;
+border-width: 10px;
+border-color: indianred;
+border-style: dotted;
+float: inline-start;
+margin-top: 5px;
+margin-right: 500px;
+}
